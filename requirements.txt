@@ -1,0 +1,17 @@
+# File Organizer - Requirements
+# 
+# No external dependencies required!
+# 
+# This project uses only Python standard library modules:
+# - os (file and directory operations)
+# - shutil (file operations)
+# - pathlib (path handling)
+# - json (logging)
+# - datetime (timestamps)
+# - logging (console output)
+# - collections (data structures)
+#
+# Minimum Python version: 3.6+
+#
+# To install the project, simply ensure Python is installed:
+# python file_organizer.py
